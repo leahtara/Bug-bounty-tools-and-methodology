@@ -11,4 +11,4 @@ Go through the scope of the target (very important)
 The goal is to find the subdomains that exist which other people are not finding.
 You can make a custom script to combine many tools together (Either code it or use chatgpt).
 Tools:
-assetfinder
+(assetfinder)[https://github.com/tomnomnom/assetfinder.git]
