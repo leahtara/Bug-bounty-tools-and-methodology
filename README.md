@@ -15,3 +15,4 @@ Tools:
 [assetfinder](https://github.com/tomnomnom/assetfinder.git)
 [crtsh](https://github.com/YashGoti/crtsh.git)
 [github-subdomains](https://github.com/gwen001/github-subdomains.git)
+To remove duplicate subdomains: [anew](https://github.com/tomnomnom/anew.git)
